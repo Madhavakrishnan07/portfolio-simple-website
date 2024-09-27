@@ -14,6 +14,6 @@ Welcome to my portfolio website! This project showcases my work and provides a w
 
 ## How to View
 
-You can access my portfolio website by visiting [link] Feel free to explore to content and get in touch!
+You can access my portfolio website by visiting [link: https://madhavakrishnan07.github.io/portfolio-simple-website/] Feel free to explore to content and get in touch!
 
 Thank you for visiting my portfolio website
